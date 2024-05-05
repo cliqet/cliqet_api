@@ -1,3 +1,17 @@
+# Cliqet API Python Module
+
+This python module can be used to interact with Cliqet API services which can be found here.
+
+```bash
+https://app.cliqet.com/
+```
+
+### Dependencies
+- httpx
+
+### About Cliqet API Services
+
+Cliqet offers a wide range of APIs that cater to the specific needs of startups, empowering them to leverage advanced functionalities without the burden of high upfront costs.
 
 ### Services include:
 - Identify Services - Allows you to automate your process of verifying your users.
